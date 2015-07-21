@@ -1,0 +1,27 @@
+{
+    "name": "pigeon",
+    "version": "0.1.4",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "4.6.1",
+        "colors": "*",
+        "express-handlebars": "2.0.1"
+    },
+    "engines": {
+        "node": "0.12.2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/heroku/node-js-getting-started"
+    },
+    "keywords": [
+        "node",
+        "heroku",
+        "express"
+    ],
+    "license": "MIT"
+}
