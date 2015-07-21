@@ -1,0 +1,21 @@
+<div id="bd">
+
+    <div class="layout grid-m0 J_TLayout" data-widgetid="8972337479" data-componentid="231" data-context="bd" data-prototypeid="231" data-id="8972337479" data-sitecategory="">
+
+        <div class="col-main">
+            <div class="main-wrap J_TRegion" data-modules="main" style="overflow:visible;" data-width="b950">
+                <div class="J_TModule" data-widgetid="8972337480" id="shop8972337480" data-componentid="10128820" data-spm='110.0.10128820-8972337480' microscope-data='10128820-8972337480' data-title="全屏轮播">
+                    <!-- cache-info: componentId=10128820 cacheKey=i-8972337480-0 cachedTime=2015-07-19 11:53:27 putHost=shopsystem010176080054.n.et2 expireTime=14400 -->
+
+                    <div class="tb-module tshop-um tshop-um-quanpinglunbo" style="margin-bottom:10px;">
+                        <!-- banner -->
+                        <div class="bd" style="width:1920px;left:-465px; height:443px;background:url(https://img.alicdn.com/imgextra/i2/53714579/TB2PArxdVXXXXbnXXXXXXXXXXXX_!!53714579.jpg) 50% 50% no-repeat; ">
+                            <a href=""></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
