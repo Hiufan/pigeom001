@@ -1,0 +1,22 @@
+/*https://g.alicdn.com/shop/wangpu/1.1.0/global/copyright-min.css*/
+#copyright {
+	text-align:center;
+	padding:10px 0
+}
+#copyright .version {
+	padding:0 22px;
+	vertical-align:middle;
+	text-decoration:none
+}
+#copyright .version img {
+	vertical-align:middle
+}
+#copyright .designer {
+	color:#999;
+	vertical-align:bottom
+}
+#copyright .designer a {
+	color:#000;
+	vertical-align:bottom;
+	text-decoration:none
+}
